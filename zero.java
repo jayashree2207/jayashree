@@ -1,7 +1,7 @@
 import java.util.*;
 public class zero {
     public static void main(String[]args){
-        Scanner sc=new Scanner(sysytem.in);
+        Scanner sc=new Scanner(system.in);
         int n=sc.nextInt();
         int zero_count=0;
         while(n!=0);

@@ -1,6 +1,8 @@
 public class elseif  {
     public static void main(String[] args) {
-        int mark=100, pass=35;
+        
+                int mark = 100;
+        int pass = 35;
         if(mark==100){
             System.out.println("got centum");
         }

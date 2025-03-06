@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class mark {
     public static void main(String[]args)
     {
+        @SuppressWarnings("resource")
         Scanner doechii=new Scanner(System.in);
         int tamil,english,japanese,science,social;
 

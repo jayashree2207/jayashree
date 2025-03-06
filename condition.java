@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class condition {
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner sc = new Scanner(System.in);
         int mark=sc.nextInt(),pass=50;
         if(mark>=pass)
